@@ -119,7 +119,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
         teams: [
             {
                 name: '1991 Chicago Bulls',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/bulls.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/bulls.svg',
                 roster: {
                     starters: { PG: 'john_paxson', SG: 'michael_jordan', SF: 'scottie_pippen', PF: 'horace_grant', C: 'bill_cartwright' },
                     bench: { PG: 'bj_armstrong', SG: 'craig_hodges', SF: 'bob_hansen', PF: 'scott_williams', C: 'will_perdue', Bench6: 'cliff_levingston', Bench7: 'stacey_king' }
@@ -127,7 +127,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
             },
             {
                 name: '1991 Los Angeles Lakers',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/lakers.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/lakers.svg',
                 roster: {
                     starters: { PG: 'magic_johnson', SG: 'byron_scott', SF: 'james_worthy', PF: 'sam_perkins', C: 'vlade_divac' },
                     bench: { PG: 'larry_drew', SG: 'terry_teagle', SF: 'ac_green', PF: 'irving_thomas', C: 'mychal_thompson', Bench6: 'elden_campbell', Bench7: 'tony_smith' }
@@ -142,7 +142,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
         teams: [
             {
                 name: '1992 Chicago Bulls',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/bulls.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/bulls.svg',
                 roster: {
                     starters: { PG: 'john_paxson', SG: 'michael_jordan', SF: 'scottie_pippen', PF: 'horace_grant', C: 'bill_cartwright' },
                     bench: { PG: 'bj_armstrong', SG: 'craig_hodges', SF: 'bob_hansen', PF: 'scott_williams', C: 'will_perdue', Bench6: 'cliff_levingston', Bench7: 'stacey_king' }
@@ -150,7 +150,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
             },
             {
                 name: '1992 Portland Trail Blazers',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/trailblazers.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/trailblazers.svg',
                 roster: {
                     starters: { PG: 'terry_porter', SG: 'clyde_drexler', SF: 'jerome_kersey', PF: 'buck_williams', C: 'kevin_duckworth' },
                     bench: { PG: 'ennis_whatley', SG: 'danny_ainge', SF: 'cliff_robinson', PF: 'mark_bryant', C: 'wayne_cooper', Bench6: 'robert_pack', Bench7: 'alaan_abdelnaby' }
@@ -165,7 +165,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
         teams: [
             {
                 name: '1993 Chicago Bulls',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/bulls.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/bulls.svg',
                 roster: {
                     starters: { PG: 'bj_armstrong', SG: 'michael_jordan', SF: 'scottie_pippen', PF: 'horace_grant', C: 'bill_cartwright' },
                     bench: { PG: 'john_paxson', SG: 'trent_tucker', SF: 'darrell_walker', PF: 'scott_williams', C: 'stacey_king', Bench6: 'will_perdue', Bench7: 'rodney_mccray' }
@@ -173,7 +173,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
             },
             {
                 name: '1993 Phoenix Suns',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/suns.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/suns.svg',
                 roster: {
                     starters: { PG: 'kevin_johnson', SG: 'dan_majerle', SF: 'richard_dumas', PF: 'charles_barkley', C: 'mark_west' },
                     bench: { PG: 'frank_johnson', SG: 'danny_ainge', SF: 'cedric_ceballos', PF: 'tom_chambers', C: 'oliver_miller', Bench6: 'negele_knight', Bench7: 'tom_tolbert' }
@@ -188,7 +188,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
         teams: [
             {
                 name: '1996 Chicago Bulls',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/bulls.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/bulls.svg',
                 roster: {
                     starters: { PG: 'ron_harper', SG: 'michael_jordan', SF: 'scottie_pippen', PF: 'dennis_rodman', C: 'luc_longley' },
                     bench: { PG: 'steve_kerr', SG: 'jud_buechler', SF: 'toni_kukoc', PF: 'john_paxson', C: 'bill_wennington', Bench6: 'james_edwards', Bench7: 'randy_brown' }
@@ -196,7 +196,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
             },
             {
                 name: '1996 Seattle SuperSonics',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/sonics.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/sonics.svg',
                 roster: {
                     starters: { PG: 'gary_payton', SG: 'hersey_hawkins', SF: 'detlef_schrempf', PF: 'shawn_kemp', C: 'frank_brickowski' },
                     bench: { PG: 'nate_mcmillan', SG: 'vincent_askew', SF: 'david_wingate', PF: 'sam_perkins', C: 'ervin_johnson_c', Bench6: 'eric_snow', Bench7: 'sherell_ford' }
@@ -211,7 +211,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
         teams: [
             {
                 name: '1997 Chicago Bulls',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/bulls.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/bulls.svg',
                 roster: {
                     starters: { PG: 'ron_harper', SG: 'michael_jordan', SF: 'scottie_pippen', PF: 'dennis_rodman', C: 'luc_longley' },
                     bench: { PG: 'steve_kerr', SG: 'jud_buechler', SF: 'toni_kukoc', PF: 'jason_caffey', C: 'bill_wennington', Bench6: 'randy_brown', Bench7: 'robert_parish' }
@@ -219,7 +219,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
             },
             {
                 name: '1997 Utah Jazz',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/jazz.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/jazz.svg',
                 roster: {
                     starters: { PG: 'john_stockton', SG: 'jeff_hornacek', SF: 'bryon_russell', PF: 'karl_malone', C: 'greg_ostertag' },
                     bench: { PG: 'howard_eisley', SG: 'shandon_anderson', SF: 'stephen_howard', PF: 'adam_keefe', C: 'greg_foster', Bench6: 'antoine_carr', Bench7: 'chris_morris' }
@@ -234,7 +234,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
         teams: [
             {
                 name: '1998 Chicago Bulls',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/bulls.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/bulls.svg',
                 roster: {
                     starters: { PG: 'ron_harper', SG: 'michael_jordan', SF: 'scottie_pippen', PF: 'dennis_rodman', C: 'luc_longley' },
                     bench: { PG: 'steve_kerr', SG: 'jud_buechler', SF: 'toni_kukoc', PF: 'dick_simpkins', C: 'bill_wennington', Bench6: 'randy_brown', Bench7: 'scott_burrell' }
@@ -242,7 +242,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
             },
             {
                 name: '1998 Utah Jazz',
-                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/jazz.svg',
+                logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/jazz.svg',
                 roster: {
                     starters: { PG: 'john_stockton', SG: 'jeff_hornacek', SF: 'bryon_russell', PF: 'karl_malone', C: 'greg_foster' },
                     bench: { PG: 'howard_eisley', SG: 'shandon_anderson', SF: 'chris_morris', PF: 'adam_keefe', C: 'greg_ostertag', Bench6: 'antoine_carr', Bench7: 'jacque_vaughn' }
@@ -257,7 +257,7 @@ const historicalSeriesData: { name: string; description: string; gameDates: stri
 
 const HomeScreen: React.FC<{ onSelectMode: (mode: 'single' | 'series' | 'historical') => void }> = ({ onSelectMode }) => (
     <div className="flex flex-col items-center justify-center h-full text-center p-4 animate-fade-in-up">
-        <img src="https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/logo.png" alt="Basketball Legends Logo" className="w-56 md:w-72 mx-auto animate-pulse-slow" />
+        <img src="https://raw.githubusercontent.com/niwde787/basketball-legends/main/logo.png" alt="Basketball Legends Logo" className="w-56 md:w-72 mx-auto animate-pulse-slow" />
         <h1 className="font-headline text-4xl md:text-6xl font-black text-amber-400 mt-4 uppercase tracking-wider" style={{ textShadow: '2px 2px 8px rgba(0,0,0,0.7)' }}>
             The Pantheon
         </h1>
@@ -407,11 +407,19 @@ const HistoricalSeriesSelectionScreen: React.FC<{
                             className="bg-slate-800/70 p-6 rounded-xl shadow-lg hover:bg-slate-700/80 hover:-translate-y-2 transition-transform duration-200 text-left w-full flex flex-col justify-center items-center border border-slate-700 group h-56"
                         >
                             <div className="flex-grow flex flex-col items-center justify-center">
-                                <img
-                                    src={`https://raw.githubusercontent.com/niwde787/basketball-legends/main/${series.name.split(' ')[0]}.svg`}
-                                    alt={`${series.name} Logo`}
-                                    className="h-24 w-auto object-contain mb-4"
-                                />
+                                <div className="flex items-center justify-center gap-4 mb-4 h-24">
+                                    <img
+                                        src={series.teams[0].logo}
+                                        alt={`${series.teams[0].name} Logo`}
+                                        className="h-20 w-auto object-contain"
+                                    />
+                                    <span className="text-xl font-bold text-slate-500">vs</span>
+                                    <img
+                                        src={series.teams[1].logo}
+                                        alt={`${series.teams[1].name} Logo`}
+                                        className="h-20 w-auto object-contain"
+                                    />
+                                </div>
                                 <h3 className="font-headline text-xl text-amber-300 text-center">{series.name}</h3>
                             </div>
                             <div className="mt-auto pt-4 text-center text-xs font-bold uppercase text-slate-500 group-hover:text-amber-400 transition-colors">
@@ -484,8 +492,8 @@ const RosterSetupScreen: React.FC<{
 
 
     const initialTeamData = useMemo(() => ([
-        { name: 'Legends United', logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/team1.png', roster: JSON.parse(JSON.stringify(initialRoster)) },
-        { name: 'All-Star Squad', logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/refs/heads/main/team2.png', roster: JSON.parse(JSON.stringify(initialRoster)) }
+        { name: 'Legends United', logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/team1.png', roster: JSON.parse(JSON.stringify(initialRoster)) },
+        { name: 'All-Star Squad', logo: 'https://raw.githubusercontent.com/niwde787/basketball-legends/main/team2.png', roster: JSON.parse(JSON.stringify(initialRoster)) }
     ]), []);
 
     const [team, setTeam] = useState<Team>(initialTeamData[teamIndex]);
